@@ -1,0 +1,9 @@
+Rotte e funzionalità offerte da ProgettoPO_Application:
+
+1) /home -> mostra i path che l'utente ha a disposizione
+
+2) /airports -> mostra gli aereoporti della città selezionata
+
+3) /flights/{airport}/{date} -> mostra la lista dei voli effettuati in quel determinato aereoporto e data selezionata
+
+4) /flights/{airport}/{date}/stats/airlines -> mostra le statistiche relative ai voli (arrivi e partenze) dell'aereoporto e data selezionata
