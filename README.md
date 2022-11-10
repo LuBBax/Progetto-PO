@@ -1,9 +1,9 @@
 # Progetto-PO
 
-## TITOLO
+## PROGETTO PO 
 # AEREODATA REST API
 
-## AUTORI
+## WP-AP
 
 ### Aurelio Pacetti 50%
 ### William Properzi 50%
